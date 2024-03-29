@@ -3,6 +3,13 @@
 ## Group Members
 Dhananjay Sunil Menon, Rakesh B Krishnan, Shreya Chaudhary
 
+## Final Report
+Check out our final report 
+<a href = 'https://github.com/dhananjaymenon/Advanced-Security-Camera-System-Software/blob/main/Report.pdf'> here <a>.
+
+## Demo Link
+Youtube : https://www.youtube.com/watch?v=CxtbcyLmjx0
+
 ## Abstract
 This project focusses on imparting advanced image recognition features in security footage to improve real-time alerts and overall safety in banks. In the past, security cameras were used to record footage of everything that goes on in the bank. With the advanced security software, security cameras can send real time alerts to notify emergency services in case of a robbery. The advanced security system recognizes faces of employees and estimates their pose. In case on a robbery, an alarm alert can be sent to the police station by registering a body gesture from the employee.
 
@@ -52,10 +59,12 @@ Cameras are present on many public places to improve security and this works fin
 
 *Weapons are detected in real time using the Yolo algorithm.*
 
+## Conclusion
+This project is an advanced security system camera software with functionalities such as proactive security system alert, weapon detection and identity profile retrieval. The proactive system alert detects if a robbery is taking place by scanning the pose of the employees and sends a notification to emergency services. Weapon detection uses object detection to find a weapon. Identity profile retrieval is used to get information on people if an incident has taken place.
 
+## Future Work
+With increasing technology in various aspects of security in banks, security cameras have always been the same. Extensive investigation must be done after a crime to gather evidence and leads in finding criminals. With smart vision technology, a lot of time can be saved with proactive alarm systems and criminal information can easily be extracted after the crime. Such security features can make robberies more difficult and can dissuade such crimes in the future.
 
+With high-tech security and low crime rates, people of a community can be safe and have peace of mind. Banks can also be saved from any loss of money. In some countries, security cameras are present extensively. This makes it easier to nab criminals and dissuade people from doing anything immoral and wrong.
 
-## Demo Link
-Youtube : https://www.youtube.com/watch?v=CxtbcyLmjx0
-
-## Paper Link
+This application can be extended to banks for better camera security. The required cameras can be installed at specific angles and locations in order to get the best view needed for the implementation of this application.
