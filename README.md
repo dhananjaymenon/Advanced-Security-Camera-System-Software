@@ -28,6 +28,32 @@ In some countries, security cameras are present extensively. This makes it easie
 Cameras are present on many public places to improve security and this works fine with motion detectors if it is not necessary to identify the person on the picture automatically. This project focusses on imparting advanced object, face and gesture recognition features in security footage to improve real-time alerts and overall safety in banks. In the past, security cameras were used to record footage of everything that goes on in the bank. With the advanced security software, security cameras can send real time alerts to notify emergency services in case of a robbery. Once a face is detected in images they can be identified or matched with a given face database.
 
 ## Output Images
+### Pose Estimation
+![pose estimation](https://github.com/dhananjaymenon/Advanced-Security-Camera-System-Software/blob/main/pics/poseEstimate1.jpg?raw=true)
+
+*Incase face is detected to be employees’, the proactive alert will sound when there the pose is shown for more than 5 seconds in front of the camera.*
+
+![pose estimation](https://github.com/dhananjaymenon/Advanced-Security-Camera-System-Software/blob/main/pics/poseEstimate2.jpg?raw=true)
+
+*Incase someone other than the employee tries to activate the alarm, then the alarm does not activate as the face of that person is not recognized.*
+
+### Identity Profile Retrieval
+![people detection](https://github.com/dhananjaymenon/Advanced-Security-Camera-System-Software/blob/main/pics/peopleDetection1.jpg?raw=true)
+
+*People who enter the frame have their screenshots saved along with the time stamp.*
+
+![people detection 2](https://github.com/dhananjaymenon/Advanced-Security-Camera-System-Software/blob/main/pics/peopleDetection2.png?raw=true)
+
+*Each picture is saved with the time stamp first.*
+
+### Weapon Detection
+
+![weapon detection](https://github.com/dhananjaymenon/Advanced-Security-Camera-System-Software/blob/main/pics/weaponDetection1.jpg?raw=true)
+
+*Weapons are detected in real time using the Yolo algorithm.*
+
+
+
 
 ## Demo Link
 Youtube : https://www.youtube.com/watch?v=CxtbcyLmjx0
